@@ -1,0 +1,6 @@
+print("привет")
+print("ПРИВЕТ")
+print("ЛАДНО")
+print("OKAYYY")
+print("OMGOD")
+print("ЛАДНО")
