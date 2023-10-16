@@ -1,0 +1,5 @@
+www = input()
+uuu = input()
+ooo = input()
+sss = input()
+print(uuu, ooo, sss, sep=www)
