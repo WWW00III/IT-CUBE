@@ -1,0 +1,3 @@
+input("расскажи шутку")
+name = input()
+print("хахахахаха,"name)
